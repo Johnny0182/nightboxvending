@@ -1,2 +1,1 @@
-# LANTERN-LOGIC
 # Vending-Machine
